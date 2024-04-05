@@ -12,7 +12,7 @@ CLUTTER REMOVER is a simple yet powerful tool designed to help you organize clut
 
 ## Usage
 
-1. Download the latest release of CLUTTER REMOVER from the [releases page](https://github.com/vedantterse/CLUTTER-REMOVER/dist/).
+1. Download the latest release of CLUTTER REMOVER from the [releases page](https://github.com/vedantterse/CLUTTER-REMOVER/tree/main/dist).
   
 2. Extract the downloaded zip file to your desired location.
   
