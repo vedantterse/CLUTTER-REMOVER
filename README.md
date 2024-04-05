@@ -2,6 +2,8 @@
 
 CLUTTER REMOVER is a simple yet powerful tool designed to help you organize cluttered files within a specified folder with ease. Whether you're dealing with a messy downloads folder or scattered project files, CLUTTER REMOVER streamlines the process by automatically sorting files into respective folders based on their types.
 
+🚀 **Important Notice:** This repository has been migrated to [SwiftSort](https://github.com/vedantterse/SwiftSort),Head over there for all the latest updates, features.!!
+
 ## Features
 
 - **Effortless Organization**: Say goodbye to manual file sorting. CLUTTER REMOVER automatically categorizes files into folders such as images, documents, PDFs, and more.
@@ -12,7 +14,7 @@ CLUTTER REMOVER is a simple yet powerful tool designed to help you organize clut
 
 ## Usage
 
-1. Download the latest release of CLUTTER REMOVER from the [releases page](https://github.com/vedantterse/CLUTTER-REMOVER/tree/main/dist).
+1. Download the latest release of CLUTTER REMOVER from the [releases page](https://github.com/vedantterse/CLUTTER-REMOVER/releases/).
   
 2. Extract the downloaded zip file to your desired location.
   
